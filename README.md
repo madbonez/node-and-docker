@@ -1,2 +1,4 @@
 # node-and-docker
-Dockerfile declares official nodejs 12 with docker cli
+Dockerfile
+
+declares official nodejs 12 with docker cli
